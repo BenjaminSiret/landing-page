@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(../../images/background-banner.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  padding: 80px;
+  display: flex;
+}
+
+#h1-banner {
+  color :white;
+}
+
+#p-banner {
+  color: white;
+}
